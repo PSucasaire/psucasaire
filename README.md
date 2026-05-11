@@ -4,7 +4,7 @@ Data Analyst | BI Analyst | Data Science & Analytics
 </h3>
 
 <p align="center">
-📍 Peru | Banking • Risk • Collections • BI • Machine Learning
+📍 Chile | Banking • Risk • Collections • BI • Machine Learning
 </p>
 
 ---
