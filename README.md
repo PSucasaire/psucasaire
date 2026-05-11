@@ -94,7 +94,7 @@ Data Analyst | BI Analyst | Data Science & Analytics
 📧 Email: pcms.1223@gmail.com
 
 💼 LinkedIn:
-(ADD YOUR LINK HERE)
+https://www.linkedin.com/in/paulo-c%C3%A9sar-morales-sucasaire-2a319280/
 
 ---
 
