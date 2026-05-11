@@ -1,103 +1,218 @@
 <h1 align="center">Hi 👋, I'm Paulo Sucasaire</h1>
+
 <h3 align="center">
-Data Analyst | BI Analyst | Data Science & Analytics
+Business Intelligence • Data Analytics • Data Science • Statistical Modeling
 </h3>
 
 <p align="center">
-📍 Chile | Banking • Risk • Collections • BI • Machine Learning
+📍 Peru & Chile • Banking • Risk • Collections • BI • Machine Learning
+</p>
+
+<p align="center">
+Data professional with experience in Business Intelligence, Statistical Analysis, Data Science and Data Engineering.
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-🎯 Data Analyst and BI professional with experience in:
+🎯 BI & Analytics professional with experience across:
 - Banking & Collections Strategy
+- Credit Risk Analytics
 - Business Intelligence
-- Data Science & Predictive Analytics
 - Statistical Modeling
+- Predictive Analytics
 - Dashboard Development
 - Data Engineering & ETL
+- Quantitative Research
 
-📊 Currently working at Santander as a Collections Strategy Analyst.
+📊 Currently working as a **Collections Strategy Analyst at Santander**.
 
-🎓 Master's student in Data Science at Universidad Nacional de Ingeniería (UNI).
+🎓 Master's student in **Data Science** at **Universidad Nacional de Ingeniería (UNI)**.
 
-💡 Passionate about:
+📚 Background in:
+- Banking Analytics
+- Credit Risk
+- Collections & Recovery
+- Research & Statistics
+- Business Intelligence
 - Data Visualization
-- Predictive Models
-- Credit Risk Analytics
-- Automation
-- Machine Learning
 - Cloud & Big Data
 
----
-
-## 🛠️ Tech Stack
-
-### Languages & Analytics
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
-### BI & Visualization
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-### Data Engineering & Cloud
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-EF3E42?style=for-the-badge&logo=databricks&logoColor=white)
-![Spark](https://img.shields.io/badge/Apache_Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
-
-### Data Science & ML
-![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+💡 Passionate about transforming data into strategic business decisions through analytics, automation and storytelling.
 
 ---
 
-## 📌 Featured Projects
+# 🛠️ Tech Stack
 
-### 📊 Collections Strategy Dashboard
+## Languages & Analytics
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+</p>
+
+---
+
+## BI & Data Visualization
+
+<p>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Qlik-009845?style=for-the-badge&logo=qlik&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+</p>
+
+📊 KPI Dashboards • Executive Reporting • Storytelling • Data Visualization • Power Query • DAX
+
+---
+
+## Statistical Analysis
+
+<p>
+<img src="https://img.shields.io/badge/SPSS-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
+<img src="https://img.shields.io/badge/Stata-1A5A96?style=for-the-badge"/>
+</p>
+
+📈 Hypothesis Testing • Regression Models • Sampling • Multivariate Analysis • Statistical Inference • Quantitative Research
+
+---
+
+## Data Engineering & Cloud
+
+<p>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Databricks-EF3E42?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache_Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black"/>
+</p>
+
+☁️ ETL Pipelines • Lakehouse Architecture • Data Automation • Big Data Processing
+
+---
+
+## Data Science & Machine Learning
+
+<p>
+<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+</p>
+
+🤖 Machine Learning • Predictive Analytics • Feature Engineering • Forecasting • SHAP • Model Evaluation • Credit Scoring
+
+---
+
+# 💼 Professional Experience
+
+### 🏦 Santander
+**Collections Strategy Analyst**  
+- Collections analytics & recovery strategy
+- KPI monitoring & portfolio segmentation
+- Reporting automation & business intelligence
+- Predictive analytics for collections optimization
+
+### 📡 Claro Perú / Global Hitss
+**Data Exploitation Analyst**  
+- SQL & Oracle analytics
+- BI reporting and automation
+- Power BI & Qlik dashboards
+- Data extraction and transformation
+
+### 🎓 Universidad de Ingeniería y Tecnología (UTEC)
+**BI Analyst**  
+- Commercial & postgraduate analytics
+- Executive dashboards
+- Marketing & lead analysis
+- Reporting automation
+
+### 🏛️ Universidad Nacional de Ingeniería
+**Statistical & Data Analyst**  
+- Statistical studies and surveys
+- Large-scale data processing
+- Research analytics
+- Dashboard development
+
+---
+
+# 📖 Publications & Research
+
+## 🏥 Provision and utilization of basic maternal healthcare during the pandemic in Ecuador: The health workers’ perspective
+
+📚 **Journal:** Journal of Family Medicine and Primary Care  
+📅 Published: Nov 18, 2024
+
+**Authors:**  
+Olga Elena Espinosa-Henao, Victor Becerril-Montekio, Erick Antonio Osorio-López, José B. Espinoza-Suarez, Paulo Cesar Morales-Sucasaire, Martí A. Quevedo-Pinos, Jacqueline Elizabeth Alcalde-Rabanal
+
+🔗 DOI: https://doi.org/10.4103/jfmpc.jfmpc.650.24
+
+📊 Contributions:
+- Statistical analysis
+- Quantitative research
+- Healthcare data analysis
+- Data interpretation during COVID-19 context
+
+---
+
+# 🚀 Featured Projects
+
+## 📊 Collections Strategy Dashboard
 - KPI monitoring for collections performance
-- Segmentation by delinquency buckets
-- Automated reporting pipelines
+- Delinquency segmentation
+- Recovery analytics
+- Executive dashboarding
 
-### 🤖 Credit Risk Predictive Models
+## 🤖 Credit Risk Predictive Models
 - Logistic Regression
 - XGBoost
 - SHAP explainability
 - KS / Gini / AUC evaluation
 
-### ☁️ Databricks Lakehouse Migration
-- ETL migration from Excel/Blob Storage to Azure Databricks
-- Automated SQL & Power BI pipelines
+## ☁️ Databricks ETL Pipeline
+- Azure Databricks workflows
+- ETL automation
+- Lakehouse architecture
+- SQL & Spark processing
 
-### 📈 Statistical Analysis Projects
-- Hypothesis testing
-- Regression models
-- Survey & sampling methodologies
+## 📈 Statistical Analysis Projects
+- Survey methodologies
+- Regression analysis
+- Statistical modeling
+- Quantitative research
 
 ---
 
-## 📚 Currently Learning
+# 📚 Currently Learning
 
 - MLOps
 - Advanced Machine Learning
 - Big Data Processing with Spark
 - Cloud Architecture
-- Git & GitHub workflows
+- Git & GitHub Workflows
 
 ---
 
-## 📫 Contact
+# 📫 Contact
 
-📧 Email: pcms.1223@gmail.com
+📧 Email: **pcms.1223@gmail.com**
 
-💼 LinkedIn:
-https://www.linkedin.com/in/paulo-c%C3%A9sar-morales-sucasaire-2a319280/
+💼 LinkedIn:  
+[ADD YOUR LINK HERE](https://www.linkedin.com/in/paulo-c%C3%A9sar-morales-sucasaire-2a319280/)
 
 ---
 
-## ⚡ Fun Fact
+# 📊 GitHub Stats
 
-I combine business analytics, statistics and data engineering to solve real-world problems 🚀
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=PSucasaire&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PSucasaire&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# ⚡ Fun Fact
+
+I combine business analytics, statistical modeling, business intelligence and data engineering to solve real-world problems 🚀
