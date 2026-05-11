@@ -144,7 +144,7 @@ Data professional with experience in Business Intelligence, Statistical Analysis
 **Authors:**  
 Olga Elena Espinosa-Henao, Victor Becerril-Montekio, Erick Antonio Osorio-López, José B. Espinoza-Suarez, Paulo Cesar Morales-Sucasaire, Martí A. Quevedo-Pinos, Jacqueline Elizabeth Alcalde-Rabanal
 
-🔗 DOI: https://doi.org/10.4103/jfmpc.jfmpc.650.24
+🔗 DOI: [https://doi.org/10.4103/jfmpc.jfmpc.650.24](https://pmc.ncbi.nlm.nih.gov/articles/PMC11668415/)
 
 📊 Contributions:
 - Statistical analysis
