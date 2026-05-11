@@ -197,21 +197,10 @@ Olga Elena Espinosa-Henao, Victor Becerril-Montekio, Erick Antonio Osorio-López
 📧 Email: **pcms.1223@gmail.com**
 
 💼 LinkedIn:  
-[ADD YOUR LINK HERE](https://www.linkedin.com/in/paulo-c%C3%A9sar-morales-sucasaire-2a319280/)
+[linkedin.com/in/paulo-sucasaire](https://www.linkedin.com/in/paulo-c%C3%A9sar-morales-sucasaire-2a319280/)
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=PSucasaire&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PSucasaire&layout=compact&theme=tokyonight"/>
-</p>
-
----
 
 # ⚡ Fun Fact
 
